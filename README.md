@@ -1,44 +1,142 @@
-# 🎯 100 Days of Machine Learning – CampusX
+# 100 Days of Machine Learning – CampusX
 
-This repository is a personal log of learning and progress through the **100 Days of Machine Learning** series by [CampusX](https://www.youtube.com/@campusx-official).
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-CampusX-orange)
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
+![Learning](https://img.shields.io/badge/Purpose-Learning-green)
+![Status](https://img.shields.io/badge/Status-In%20Progress-success)
 
----
+## Overview
 
-## 📚 About the Series
+This repository documents my progress through the **100 Days of Machine Learning** series by **CampusX**. It serves as a personal learning journal containing notes, code implementations, exercises, and experiments completed throughout the course.
 
-The **100 Days of ML** challenge is an initiative by [CampusX](https://www.youtube.com/@campusx-official) to help learners build a solid foundation in machine learning, step by step, through daily lessons and hands-on projects. The series covers:
+The goal of this repository is to track learning progress, reinforce key machine learning concepts through practical implementation, and maintain a structured reference for future study.
 
-- Python for data science
-- Statistics and probability
-- Exploratory data analysis (EDA)
-- Supervised and unsupervised learning
-- Model tuning and evaluation
-- Real-world ML projects
+## About the Series
 
-You can follow the full video series here:  
-👉 [CampusX YouTube Channel](https://www.youtube.com/@campusx-official)
+The **100 Days of Machine Learning** challenge, created by **CampusX**, is a comprehensive machine learning learning path designed to build a strong foundation in data science and machine learning through daily lessons and practical exercises.
 
----
+The series covers a wide range of topics including:
 
-## ✍️ Purpose of This Repository
+* Python for Data Science
+* Mathematics for Machine Learning
+* Statistics and Probability
+* Data Cleaning and Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Supervised Learning
+* Unsupervised Learning
+* Model Evaluation
+* Hyperparameter Tuning
+* Machine Learning Pipelines
+* Real-World Machine Learning Projects
 
-This repository serves as a **personal tracker** for completing the 100 Days of ML series. It includes:
+Official Channel:
 
-- Notes
-- Code snippets
-- Mini-projects
-- Practice exercises
+https://www.youtube.com/@campusx-official
 
-All content in this repository is based on the learning journey inspired by CampusX’s series and is used solely for educational purposes.
+## Repository Purpose
 
----
+This repository is maintained as a personal learning archive and progress tracker throughout the challenge.
 
-## 📌 Disclaimer
+Contents may include:
 
-This repository is **not affiliated with or endorsed by CampusX**. All credit for the course structure, tutorials, and original content goes to [CampusX](https://www.youtube.com/@campusx-official).
+* Daily Notes
+* Practice Exercises
+* Code Implementations
+* Jupyter Notebooks
+* Mini Projects
+* Dataset Exploration
+* Concept Demonstrations
+* Experiment Results
 
-If you find this series helpful, consider subscribing to their YouTube channel and supporting their educational work.
+The repository is organized chronologically based on the learning journey and may evolve as additional topics are completed.
 
----
+## Learning Objectives
 
-> Happy Learning! 🚀
+The primary goals of this challenge are:
+
+* Develop a strong understanding of machine learning fundamentals.
+* Gain practical experience with Python-based data science tools.
+* Build confidence in implementing machine learning algorithms.
+* Learn industry-standard workflows for model development.
+* Create a long-term reference for future projects and research.
+
+## Technologies Used
+
+### Programming Language
+
+* Python
+
+### Libraries and Tools
+
+Depending on the topic covered, projects may use:
+
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+* XGBoost
+* Jupyter Notebook
+* SciPy
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/JPS-Saahil/100-Days-of-Machine-Learning-CampusX.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd 100-Days-of-Machine-Learning-CampusX
+```
+
+Open notebooks using Jupyter:
+
+```bash
+jupyter notebook
+```
+
+## Repository Structure
+
+The exact structure may change as the challenge progresses, but typically includes:
+
+```text
+.
+├── Day 01
+├── Day 02
+├── Day ..
+├── Notes
+├── Exercises
+├── Projects
+└── README.md
+```
+
+## Progress Tracking
+
+This repository is updated regularly as new topics are completed throughout the challenge. Each section represents concepts studied, exercises completed, and practical implementations developed during the learning process.
+
+## Acknowledgments
+
+Special thanks to **CampusX** for creating one of the most comprehensive free machine learning learning resources available online.
+
+YouTube Channel:
+
+https://www.youtube.com/@campusx-official
+
+## Disclaimer
+
+This repository is an independent learning project and is **not affiliated with, sponsored by, or officially endorsed by CampusX**.
+
+All credit for the course structure, lectures, educational materials, and original content belongs to CampusX and its creators.
+
+## Author
+
+**JPS Saahil**
+
+GitHub: https://github.com/JPS-Saahil
+
+Email: jpssaahil2003@outlook.com
