@@ -1,4 +1,4 @@
-# 100 Days of Machine Learning – CampusX
+# 100 Days of Machine Learning CampusX
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-CampusX-orange)
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
